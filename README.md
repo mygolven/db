@@ -110,3 +110,7 @@ Kool-DB系统的基本功能模块有：SQL查询，权限管理，集群管理�
 条件筛选对应的日志记录
 6. Owner库表：用户可以通过进入集群，数据库，数据表三大模块菜单，根据名称进行
 模糊搜索，高级搜索数据，可以查看权限管理和权限详情
+
+地址：
+线上：http://kool-db.his.huawei.com/kooldb/#
+beta: http://kool-db.his-beta.huawei.com/kooldb_beta/#/page/workbench
